@@ -1,0 +1,35 @@
+h1
+{
+    text-align:center;
+}
+
+img {
+    
+    display:block;
+    padding:40px;
+    margin: auto;
+    
+}
+
+.goods
+{
+    min-width:400px;
+    width:50%;
+    margin:auto;
+    margin-bottom: 200px;
+    margin-top: 100px;
+    background: #dce9d8;
+    padding:50px;
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    border-style: solid;
+    border-color: #6bdd4b;
+    border-width: medium;   
+}
+
+
+
+
+
+
+
